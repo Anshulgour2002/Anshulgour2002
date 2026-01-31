@@ -27,8 +27,6 @@
   <a href="https://www.linkedin.com/in/anshulgour/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://Anshulgour2002.github.io/New-PortFolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:anshulgour968@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -39,12 +37,8 @@
 
 ### 💼 Work Experience
 
-🟢 **Full Stack Trainer** @ Dr. Reddy’s Foundation  
-🔵 **Technical Trainer** @ MGI  
-🔵 **Member Technical** @ ADP Pvt. Ltd.  
-🔴 **Project Engineer Intern** @ Wipro Pvt. Ltd.  
-🔴 **Graduate Engineer Trainee** @ HCL Pvt. Ltd.
-
+🟢 **Full Stack Developer** @ Dr. Reddy’s Foundation  
+🔵 **Frontend Developer Intern** @ TechPanda IT Services 
 ---
 
 ## 🧰 Tech Toolbox
@@ -98,5 +92,4 @@
 ### ☁️ Cloud & Deployment
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-... (80 lines left)
 
